@@ -1,0 +1,10 @@
+@'
+# ignore model artifacts and other local stuff
+export/
+.venv/
+__pycache__/
+*.ipynb_checkpoints/
+.DS_Store
+.env
+secrets.*
+'@ | Out-File -Encoding utf8 .gitignore
