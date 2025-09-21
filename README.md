@@ -134,3 +134,6 @@ print(predict("example_food.jpg"))
 This project is for **research and educational purposes only**.\
 Do not use predictions for medical or dietary decisions without
 professional validation.
+
+<img width="853" height="1280" alt="image" src="https://github.com/user-attachments/assets/2aa352be-5e8d-41b6-989b-15847d921be3" />
+
