@@ -135,5 +135,6 @@ This project is for **research and educational purposes only**.\
 Do not use predictions for medical or dietary decisions without
 professional validation.
 
-<img width="853" height="1280" alt="image" src="https://github.com/user-attachments/assets/2aa352be-5e8d-41b6-989b-15847d921be3" />
+![5942615509679853014_121](https://github.com/user-attachments/assets/59db3dc2-bf7c-4ec2-8e9f-6d14ee9826f8)
+
 
