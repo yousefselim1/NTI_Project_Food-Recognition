@@ -1,4 +1,4 @@
-# 🍽️ Qiima Nutrition Regressor
+# 🍽️ Qiima Food Recognition & Nutrition Estimator
 
 The **Qiima Nutrition Regressor** is a deep learning project that
 predicts **calories and macronutrients (carbohydrates, protein, fat)**
